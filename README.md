@@ -13,3 +13,6 @@ ent new User
 ent generate ./ent/schema
 ```
 →スキーマファイルを修正する度に実行が必要
+
+* スキーマの修正
+ent_practice/ent/schema以下のファイルを修正
